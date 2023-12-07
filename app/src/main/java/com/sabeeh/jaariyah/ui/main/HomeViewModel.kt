@@ -4,7 +4,4 @@ import androidx.lifecycle.ViewModel
 
 class HomeViewModel : ViewModel() {
 
-    fun getProperty() {
-
-    }
 }
